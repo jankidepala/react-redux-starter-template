@@ -1,0 +1,16 @@
+{
+  "applicationsMap": {
+    "1": "phoenix",
+    "2": "phoenix2"
+  },
+  "ticketStatusMap": {
+    "1": "assigned",
+    "2": "inprogress",
+    "3": "testing",
+    "4": "completed"
+  },
+  "categoryMap": {
+    "1": "category1",
+    "2": "category2"
+  }
+} 
