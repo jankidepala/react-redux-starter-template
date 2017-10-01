@@ -1,6 +1,11 @@
-# react-redux-starter-template
-React Redux Starter template
+# Responsive React Redux Starter template
 
+# Repository containes a small project with:
+1. React
+2. Redux
+3. Redux Form
+4. Bootstrap
+5. Isomorphic fetch (dummy data)
 
 ![Picture](https://github.com/jankidepala/react-redux-starter-template/blob/master/media/h1.png)
 
@@ -17,12 +22,6 @@ Running the Project
 After completing the installation step, you're ready to start the project!
 
 $ yarn start  # Start the development server (or `npm start`)
-# Repository containes a small project with:
-1. React
-2. Redux
-3. Redux Form
-4. Bootstrap
-5. Isomorphic fetch
 
 # Responsive | Mobile | Tablet View
 ![Picture](https://github.com/jankidepala/react-redux-starter-template/blob/master/media/h2.png)
