@@ -53,9 +53,9 @@ class Dsr extends React.Component {
               <DsrPastTable DsrData={this.props.DsrData} />
               <div>
                 <Button bsStyle="warning" onClick={() => this.setState({ open: !this.state.open })}>
-                  FILL DSR TIMESHEET
+                  Form
                </Button>
-                <Panel collapsible expanded={this.state.open}>
+                <Panel >
                   <DsrForm onSubmit={this.handleSubmit.bind(this)} />
                 </Panel>
               </div>

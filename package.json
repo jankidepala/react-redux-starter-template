@@ -1,7 +1,10 @@
 {
   "name": "redux-minimal",
   "version": "1.0.0",
-  "description": "React",
+  "description": "React Redux, Redux form, Bootstrap",
+  "author": {
+    "name": "JD"
+  },
   "keywords": [
     "react",
     "redux",
@@ -9,6 +12,7 @@
     "starter kit",
     "boilerplate"
   ],
+  "git": "https://github.com/jankidepala/react-redux-starter-template",
   "main": "index.js",
   "homepage": "http://redux-minimal.js.org/",
   "scripts": {

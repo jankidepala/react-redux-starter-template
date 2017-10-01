@@ -7,7 +7,7 @@ export default class ContentBottom extends React.Component {
     componentWillMount() {
     }
     render() {
-        const dummySentences = ['Express Scripts Holding Company is an American Fortune 100 company as of 2013, the 20th-largest in the United States and is the largest pharmacy benefit management organization in the United States, with 2013 revenues of $104.62 billion. '
+        const dummySentences = ['The new Files app brings all your files together. You can easily browse, search and organise all your files in one place. And there’s a dedicated place for your recent files — those on your iPad as well as in apps, on your other iOS devices, in iCloud Drive and across other services like Box and Dropbox.'
 
         ];
 
@@ -15,11 +15,10 @@ export default class ContentBottom extends React.Component {
             <Grid className="ContentBottom">
                 <Row className="show-grid">
                     <Col sm={6} md={7}>
-                        <h3 className="headingH13">ABOUT Company</h3>
+                        <h3 className="headingH13">ios-11</h3>
                         <div> {dummySentences.slice(0, 6).join(' ')}
                             <span>
-                                Headquarters: St. Louis, Missouri, United States CEO: Timothy C. Wentworth (May 2016)<br /><br />
-                                Founded: 1986, St. Louis, Missouri, United States Net income: 1.845 USD (2013)
+                            The new Dock is a foundational change for iPad. It’s now available from any screen. So with just a swipe, you can open and switch apps instantly. And you can customise it with more of your favourites. Apps you’ve opened recently and apps that are currently open on your iPhone or Mac appear in the right side of the Dock.                            
                             </span><br /><br />
                         </div>
                     </Col>

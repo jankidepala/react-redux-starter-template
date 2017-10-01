@@ -19,7 +19,7 @@ class DsrPastTable extends React.Component {
 
         return (
             <div className="formContainer">
-                <h3 className="headingH13">Past DSR records</h3>
+                <h3 className="headingH13">iPad records</h3>
                 <Table responsive>
                     <thead>
                         <tr>

@@ -32,8 +32,7 @@ let LoginComp = (props) => {
                         <Field name="pwd" component={renderField} type="password" label="Password*" val="AS" />
                     </Col>
                     <Col xs={12} md={12}>
-                    <Link to="/dashboard">First time Registration Form</Link>
-                        <button type="submit"  href="/RegistrationForm" className="btn btn-primary">Submit</button>
+                        <Link to="/Spotlight">Submit</Link>
                         <button type="button" disabled={pristine || submitting} className="btn btn-primary" onClick={reset}>Reset Values</button>
                     </Col>
                     <Col xs={12} md={12}>
