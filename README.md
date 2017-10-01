@@ -1,7 +1,8 @@
 # react-redux-starter-template
 React Redux Starter template
 
-![Picture](https://github.com/jankidepala/angular.4.ScaffoldProject/blob/master/Gittts/01_Router_Angular_4.0.png)
+
+![Picture](https://github.com/jankidepala/react-redux-starter-template/blob/master/media/h1.png)
 
 #Installation
 
@@ -16,10 +17,12 @@ Running the Project
 After completing the installation step, you're ready to start the project!
 
 $ yarn start  # Start the development server (or `npm start`)
-#repository containes a small project with:
-#React
-#Redux
-#Redux Form
-#Bootstrap
-#Isomorphic fetch
+# Repository containes a small project with:
+1. React
+2. Redux
+3. Redux Form
+4. Bootstrap
+5. Isomorphic fetch
 
+# Responsive | Mobile | Tablet View
+![Picture](https://github.com/jankidepala/react-redux-starter-template/blob/master/media/h2.png)
